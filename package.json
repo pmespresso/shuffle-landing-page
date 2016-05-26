@@ -7,6 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "dependencies": {
+    "connect": "3.4.1",
+    "serve-static": "1.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/herokucx/powerful-coast-59765"
+  },
   "keywords": [],
   "author": "YJ Kim",
   "license": "ISC"
